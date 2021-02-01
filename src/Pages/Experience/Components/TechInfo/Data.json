@@ -1,0 +1,71 @@
+{
+  "lanes": [
+    {
+      "id": "POST",
+      "title": "tech info | atout-service mada",
+      "label": "07/2017 - 07/2019 | 1 an",
+      "style": {
+        "width": 280
+      },
+      "cards": [
+        {
+          "id": "Role1",
+          "title": "Technicien en informatique",
+          "description": "Assure le bon fonctionnement des materiels informatiques comme les ordinateurs, les imprimantes  de la societe. Maintenire aussi le bon fonctionnement de reseau informatique dans la societe, intervenir en cas de panne reseau ou materuel reseau. Installer et configurer les nouveaux materiels dans la cosiete ou au pres de ces client."
+          
+        },
+        {
+          "id": "Role2",
+          "title": "Graphiste / Web designer",
+          "description": "Creation des affiches publicitaires, de carte de visite, de flayer et logo pour la societe et ces clients."
+        }
+      ]
+    },
+    {
+      "id": "POST1",
+      "title": "Technicien SAV | SODIM",
+      "label": "2020 | 1 semaine",
+      "style": {
+        "width": 280
+      },
+      "cards": [
+        {
+          "id": "Role",
+          "title": "Technicien SAV",
+          "description": "Installation, configuration des imprimantes aupres des clients de SODIM."
+        }
+      ]
+    },
+    {
+      "id": "POST2",
+      "title": "DEVELOPPEUR | ILoO TECH ",
+      "label": "02/2020- 04/2020 | 3 mois",
+      "style": {
+        "width": 280
+      },
+      "cards": [
+        {
+          "id": "Role",
+          "title": "wordpress et prestashop",
+          "description": "Installation, configuration des imprimantes aupres des clients de SODIM."
+        }
+      ]
+    },
+    {
+      "id": "POST3",
+      "title": "DEVELOPPEUR web | SAYNA",
+      "style": {
+        "width": 280
+      },
+      "label": "11/2020 - Maintenant",
+      "cards": [
+        {
+          "id": "Role1",
+          "title": "Developpeur full-stack JS",
+          "description": "Developpee la partie CLIENT du plateforme SAYNA-SCHOOL avec React JS, graphQL"
+        }
+      ]
+    }
+    
+  ]
+}

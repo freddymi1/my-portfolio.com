@@ -1,0 +1,20 @@
+.react-multi-carousel-item{
+    width: 100% !important;
+}
+.react-multiple-carousel__arrow {
+    position: absolute;
+    outline: none !important;
+    transition: all .5s;
+    border-radius: 35px;
+    z-index: 1000;
+    border: 0;
+    background: rgba(226, 226, 226, 0.5) !important;
+    min-width: 43px;
+    min-height: 43px;
+    opacity: 1;
+    cursor: pointer;
+    transition: background .4s ease;
+}
+.react-multiple-carousel__arrow--right {
+    background: rgba(155, 154, 154, 0.5) !important;
+}

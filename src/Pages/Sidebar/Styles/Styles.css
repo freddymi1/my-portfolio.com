@@ -1,0 +1,12 @@
+.sidebar{
+    height: 100vh !important;
+    overflow-y: hidden;
+    bottom: 0;
+    position: fixed;
+}
+.pro-sidebar-content{
+    border-bottom: 1px solid #444 !important;
+}
+.pro-sidebar-footer{
+    border-top: 0 !important;
+}

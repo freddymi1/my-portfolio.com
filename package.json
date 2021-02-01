@@ -1,0 +1,63 @@
+{
+  "name": "my-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.3.7",
+    "@lourenci/react-kanban": "^2.1.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.21.1",
+    "emoji-picker-react": "^3.4.2",
+    "graphql": "^15.5.0",
+    "react": "^17.0.1",
+    "react-animated-progress-bar": "^1.0.4",
+    "react-circle-progress-bar": "^0.1.4",
+    "react-circular-progressbar": "^2.0.3",
+    "react-dom": "^17.0.1",
+    "react-icons": "^4.1.0",
+    "react-image-gallery": "^1.0.8",
+    "react-loading": "^2.0.3",
+    "react-multi-carousel": "^2.6.1",
+    "react-phone-number-input": "^3.1.10",
+    "react-pro-sidebar": "^0.5.0",
+    "react-responsive": "^8.2.0",
+    "react-responsive-carousel": "^3.2.11",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-share": "^4.3.1",
+    "react-simple-tree-menu": "^1.1.18",
+    "react-sortable-tree": "^2.8.0",
+    "react-toggle": "^4.1.1",
+    "react-tree-graph": "^5.1.0",
+    "react-trello": "^2.2.9",
+    "styled-components": "^5.2.1",
+    "tailwindcss": "^2.0.2",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
