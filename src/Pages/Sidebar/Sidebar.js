@@ -48,13 +48,13 @@ export default function Sidebar(){
                             Competences
                             <Link to='/competences'/>
                         </MenuItem>
+                        <MenuItem icon={<FaGraduationCap />} className="font-bold uppercase">
+                            Formations
+                            <Link to='/formations'/>
+                        </MenuItem>
                         
-                        <SubMenu title="Formations" icon={<FaGraduationCap/>} className="uppercase text-md font-bold">
-                            <MenuItem className="capitalize">Etudes</MenuItem>
-                            <MenuItem className="capitalize">Formations</MenuItem>
-                        </SubMenu>
                         <MenuItem icon={<MdSettingsInputComponent />} className="font-bold uppercase">
-                            Experiences / projet
+                            Experiences/projets
                             <Link to='/experience'/>
                         </MenuItem>
                         <MenuItem icon={<GiSkills />} className="font-bold uppercase">
@@ -65,7 +65,7 @@ export default function Sidebar(){
                 </SidebarContent>
                 <SidebarFooter className="m-auto border-0 ">
                     <div className="flex m-auto space-x-2 py-2 items-center text-center">
-                        <a href="https://linkedin.com">
+                        <a href="https://www.linkedin.com/in/narisoa-harilala-freddy-michel-49aa031a1/">
                             <LinkedinIcon size={32} round={true}  className="text-center"/>
                         </a>
                         <a href="https://pinterest.com">

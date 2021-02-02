@@ -1,0 +1,52 @@
+{
+  "lanes": [
+    {
+      "id": "ETUDE",
+      "title": "LICENCE | GSI madagascar",
+      "label": "2015 - 2016 | 1 an",
+      "style": {
+        "width": 300
+      },
+      "cards": [
+        {
+          "id": "etude1",
+          "title": "Informatique de gestion",
+          "description": " Maintenire aussi le bon fonctionnement de reseau informatique dans la societe, intervenir en cas de panne reseau ou materuel reseau. Installer et configurer les nouveaux materiels dans la cosiete ou au pres de ces client."
+          
+        }
+      ]
+    },
+    {
+      "id": "ETUDE1",
+      "title": "DTS | GSI Madagascar",
+      "label": "2013 - 2015 | 2 ans",
+      "style": {
+        "width": 300
+      },
+      "cards": [
+        {
+          "id": "etude2",
+          "title": "Informatique de gestion",
+          "description": "Installation, configuration des imprimantes aupres des clients de SODIM."
+        }
+      ]
+    },
+    
+    {
+      "id": "ETUDE2",
+      "title": "bacc serie d | lycee faratsiho",
+      "style": {
+        "width": 300
+      },
+      "label": "2012",
+      "cards": [
+        {
+          "id": "Role1",
+          "title": "Baccalaureat serie D",
+          "description": "Developpee la partie CLIENT du plateforme SAYNA-SCHOOL avec React JS, graphQL"
+        }
+      ]
+    }
+    
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "lanes": [
+    {
+      "id": "PROJET0",
+      "title": "Application web",
+      "label": "2017-2018",
+      "style": {
+        "width": 300
+      },
+      "cards": [
+        {
+          "id": "Projet0",
+          "title": "Gestion des membres RIATA",
+          "description": "Conception et realisation d'une application web pour la gestion des membres de RIATA Dioseze Antananarivo au sein de l'Eglise Anglican. Realiser avec le Frameword PHP Codeigniter et la base de donnee MySQL. J'utilise aussi JSON, AJAX, Bootstrap pendant la realisation du projet. UML pour l'analyse."
+          
+        }
+      ]
+    },
+    {
+      "id": "PROJET",
+      "title": "Application web",
+      "label": "Licence 2016 | Codeigniter & MySQL",
+      "style": {
+        "width": 300
+      },
+      "cards": [
+        {
+          "id": "Projet",
+          "title": "Gestion du personnel",
+          "description": "Conception et realisation d'une application web pour la gestion du personnel dans une entreprise. Realiser avec le Frameword PHP Codeigniter et la base de donnee MySQL. J'utilise aussi JSON, AJAX, Bootstrap pendant la realisation du projet. UML pour l'analyse."
+          
+        }
+      ]
+    },
+    {
+      "id": "PROJET1",
+      "title": "Logiciel",
+      "label": "Licence 2016 | JAVA & MySQL",
+      "style": {
+        "width": 300
+      },
+      "cards": [
+        {
+          "id": "Projet1",
+          "title": "Gestion de stocks",
+          "description": "Conception et realisation d'une progiciel pour la gestion de stocks dans Grande surface. Realiser avec le language de programmation JAVA et la base de donnee MySQL. J'ai utilisee la librairie Jasper Report pour la facturation."
+          
+        }
+      ]
+    },
+    {
+      "id": "PROJET2",
+      "title": "Site vitrine",
+      "label": "Licence 2016 | Wordpress",
+      "style": {
+        "width": 300
+      },
+      "cards": [
+        {
+          "id": "Projet2",
+          "title": "Creation de Site vitrine",
+          "description": "Conception et realisation d'une site web vitrine pour le magasin vente de lunette. Realiser avec la CMS Wordpress. J'ai utilise le plugin WooCommerce pour la gestion de vente."
+          
+        }
+      ]
+    },
+    {
+      "id": "PROJET3",
+      "title": "Logiciel",
+      "label": "Licence 2016 | JAVA & MySQL",
+      "style": {
+        "width": 300
+      },
+      "cards": [
+        {
+          "id": "Projet3",
+          "title": "Gestion des notes",
+          "description": "Conception et realisation d'une progiciel pour la gestion de notes des etudiants dans une Universite. Realiser avec le language de programmation JAVA et la base de donnee MySQL. J'ai utilisee la librairie Jasper Report pour la gestion de l'impression des Bulletins de note."
+          
+        }
+      ]
+    },
+    {
+      "id": "PROJET4",
+      "title": "Site Web",
+      "label": "2020 | PHP & MySQL",
+      "style": {
+        "width": 300
+      },
+      "cards": [
+        {
+          "id": "Projet4",
+          "title": "Site web Kolotsart",
+          "description": "Conception et realisation d'une Site web Dyynamique pour l'association KOLOTSART. Realiser avec PHP, JAVASCRIPT, MYSQL."
+          
+        }
+      ]
+    }
+    
+  ]
+}

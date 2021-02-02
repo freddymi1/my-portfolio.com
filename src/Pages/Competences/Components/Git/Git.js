@@ -1,13 +1,9 @@
 import React, {useState, useRef} from 'react';
-import {FaLaptopCode} from 'react-icons/fa';
-
-import data from "./Data.json";
-import "./styles.css";
-import Board from "react-trello";
-
+import GitComp from './Components/GitComp';
 import Chevron from './Chevron/Chevron';
+import {FaGithubSquare} from 'react-icons/fa';
 import './Styles/Accordion.css';
-export default function Project (){
+export default function Git (){
     const [active, setActive] = useState("")
     const [height, setHeight] = useState("0px")
     const [rotate, setRotate] = useState("accordion_icon")
@@ -30,8 +26,8 @@ export default function Project (){
                         >
                             <div className="accordion_title text-center">
                                 <div className="text-center font-bold bg-gray-900 uppercase text-md text-gray-100">
-                                    <FaLaptopCode size="1.5em" className="inline mr-2 text-gray-50"/>   
-                                    projets et realisations personnels
+                                    <FaGithubSquare size="1.5em" className="inline mr-2 text-gray-50" />
+                                    Git
                                 </div>
                             </div>
                             <Chevron className={`${rotate}`} size={"1.5em"} color={"#f2f2f2"} position={"right"}/>
@@ -42,7 +38,7 @@ export default function Project (){
                             className="accordion_content">
                                 
                             <div className='mt-4 py-4 w-full justify-items-auto  border-t-2 border-gray-50'>
-                                <Board data={data} draggable />
+                                    <GitComp />
                             </div>                       
                         </div>
                     </div>

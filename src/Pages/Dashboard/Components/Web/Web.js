@@ -132,11 +132,11 @@ export default function Web (){
                                 title="JS" 
                                 width="250" 
                                 trackWidth="20" 
-                                percentage="40" 
+                                percentage="70" 
                             />
                             <div className="pt-4 text-center">
                                 <label className="text-gray-100 uppercase font-extrabold text-2xl">
-                                    c++
+                                    SQL
                                 </label>
                             </div>
                         </div>

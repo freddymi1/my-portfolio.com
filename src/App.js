@@ -5,8 +5,10 @@ import Sidebar from './Pages/Sidebar/Sidebar';
 import Dashboard from './Pages/Dashboard/Dashboard'
 import Competences from './Pages/Competences/Competences';
 import Experience from './Pages/Experience/Experience';
-import DarkToggle from './Pages/Test/Test'
 import Other from './Pages/Other/Other';
+import Formations from './Pages/Formations/Formations';
+// import Error404 from './Pages/404/404';
+
 function App() {
   const [darkMode, setDarkMode] = useState(getInitMode());
 
@@ -57,7 +59,8 @@ function App() {
             <Route exact path='/competences' component={Competences}/>
             <Route exact path='/experience' component={Experience}/>
             <Route exact path='/other' component={Other}/>
-            <Route exact path='/test' component={DarkToggle} />
+            <Route exact path='/formations' component={Formations} />
+            {/* <Route component={Error404}/> */}
           </div>
           
         </div>

@@ -3,6 +3,9 @@ import Web from './Components/Web/Web'
 import Framework from './Components/framework/Framework'
 import Design from './Components/Design/Design';
 import Cms from './Components/Cms/Cms'
+import Db from './Components/Db/Db';
+import Git from './Components/Git/Git';
+import Mr from './Components/Mr/Mr'
 function Competences (){
     return (
         <>
@@ -20,9 +23,9 @@ function Competences (){
                 </div>
                 
                 <div className="w-full grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                    <Cms />
-                    <Design />
-                    <Cms />
+                    <Db />
+                    <Git />
+                    <Mr />
                 </div>
             </div>
         </>
